@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="z4h8DntyPU6EQ3j9F7gH" name="Page-1">
+    <mxGraphModel dx="772" dy="1170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pgPcEkhPuPVbz9iEMJI_-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;labelBackgroundColor=none;fillColor=none;strokeColor=#028090;fontColor=light-dark(#E4FDE1,#FFFFFF);" value="&lt;font&gt;Oval&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="130" x="190" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="pgPcEkhPuPVbz9iEMJI_-2" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;strokeColor=#028090;fontColor=#E4FDE1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="80" width="110" x="580" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="pgPcEkhPuPVbz9iEMJI_-3" edge="1" parent="1" source="pgPcEkhPuPVbz9iEMJI_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=1;exitY=0;exitDx=0;exitDy=0;strokeColor=#028090;fontColor=#E4FDE1;defaultLabelBackgroundColor=gap;fillColor=#F45B69;" target="pgPcEkhPuPVbz9iEMJI_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
